@@ -18,8 +18,4 @@ while True:
         print(float(num1) / float(num2))
     elif operator == "*":
         print(float(num1) * float(num2))
-    elif operator == "/" and num2 == "0":
-       print("you can`t divide zero")
-
-
-
+  
